@@ -31,7 +31,7 @@ A interface apresenta um visual elegante com efeito glassmorphism e paleta em to
 
 ## •	Preview
 
-![preview](./assets/preview.png)
+![preview](./preview.png)
 
 ---
 
